@@ -7,7 +7,7 @@ from discord.player import FFmpegPCMAudio
 from requests import get
 import asyncio
 
-token = 'ODY5NzY3NDY1MTI5ODY5Mzgz.YQDAEw.pvKFf60eIMgRRdnIW8LfuXHWFaY'
+token = ''
 client = commands.Bot(command_prefix='>')
 
 
